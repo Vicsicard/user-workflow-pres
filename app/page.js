@@ -8,7 +8,7 @@ export default function Home() {
         
         <div className="mt-12">
           <a 
-            href="/slides/1" 
+            href="/presentation" 
             className="btn-primary inline-block"
           >
             Start Presentation

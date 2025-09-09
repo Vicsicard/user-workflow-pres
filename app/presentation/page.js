@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import { slides } from "@/lib/slides";
+import { slides } from "../../lib/slides";
 
 export default function Presentation() {
   const [currentSlide, setCurrentSlide] = useState(0);

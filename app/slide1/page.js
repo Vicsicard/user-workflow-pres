@@ -1,4 +1,4 @@
-import { slides } from "@/lib/slides";
+import { slides } from "../../lib/slides";
 
 export default function Slide1() {
   const slide = slides[0];
